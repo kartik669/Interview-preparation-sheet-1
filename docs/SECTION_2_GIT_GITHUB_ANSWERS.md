@@ -200,3 +200,4 @@ git reset --hard HEAD@{3}
   2. Use `git stash push -u -m "WIP: description"` before experimenting with risky Git commands.
   3. Push feature branches to remote forks as a remote backup.
   4. Avoid using `git reset --hard` without first running `git status` and `git diff`.
+

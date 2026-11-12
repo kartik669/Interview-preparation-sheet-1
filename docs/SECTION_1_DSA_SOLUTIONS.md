@@ -255,3 +255,4 @@ var threeSum = function(nums) {
 - Array with fewer than 3 elements (returns `[]`).
 - Multiple duplicate triplets (`[-2, 0, 0, 2, 2]` -> correctly returns unique `[[-2, 0, 2]]`).
 - Array containing all zeroes (`[0, 0, 0, 0]` -> `[[0, 0, 0]]`).
+

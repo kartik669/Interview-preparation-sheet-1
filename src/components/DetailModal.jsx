@@ -100,3 +100,4 @@ export default function DetailModal({ question, isOpen, onClose }) {
     </div>
   );
 }
+

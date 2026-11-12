@@ -50,3 +50,4 @@ export default function EmptyState({ isSearching, onResetFilters, onAddQuestion,
     </div>
   );
 }
+

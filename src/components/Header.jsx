@@ -46,3 +46,4 @@ export default function Header({ onOpenAddModal, onResetData, totalQuestions, co
     </header>
   );
 }
+

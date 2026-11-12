@@ -251,3 +251,4 @@ export const INITIAL_QUESTIONS = [
 export const CATEGORIES = ['All', 'DSA', 'Git', 'Technical', 'Machine Coding'];
 export const STATUSES = ['All', 'Completed', 'In Progress', 'Pending'];
 export const DIFFICULTIES = ['All', 'Easy', 'Medium', 'Hard'];
+

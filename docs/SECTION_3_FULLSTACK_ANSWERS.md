@@ -264,3 +264,4 @@ Direct client uploads to ImageKit prevent student uploads from choking the Expre
   1. Never perform `Model.findById(req.params.id)` without checking `doc.studentId.equals(req.user.id)`.
   2. Better yet, scope queries directly: `Model.findOne({ _id: req.params.id, studentId: req.user.id })`.
   3. Return `404 Not Found` (or `403 Forbidden`) so attackers cannot enumerate valid IDs of other students.
+
